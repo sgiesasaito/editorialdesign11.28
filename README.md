@@ -1,5 +1,5 @@
-# DESN 368 Web Design 1 Starter Template
+# Coffee editorial design
 
-> **NOTE:** This is a work in progress.
+> I like coffee
 
-DIY Template, starter, boilerplate, prototype, etc. for future Web Design projects. 
+Stuff about coffee. It is good. 
